@@ -1,0 +1,14 @@
+/.idea/
+/.gradle/
+*.iml
+
+config/*.*
+/build/
+/contiperf-report/
+/log/
+/data/
+/out/
+/target/
+/temp/
+New Folder/
+*.java1
